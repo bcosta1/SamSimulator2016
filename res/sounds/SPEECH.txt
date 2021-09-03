@@ -1,0 +1,15 @@
+Uh, Hello? Hello? Yo what up guys, SlicerVSGaming here, and I'm back with another tutorial!
+Basically, Sam's computer isn't working, so he gets to work at Mr. Hendrick's desk!
+Your objective is to finish making a program on your graphing calculator!
+But you can't program what you don't know.
+You have to watch a YouTube tutorial to learn how to program Sam's calculator.
+While programming or watching a tutorial, Mr. Hendricks starts to move nearer.
+To stop his progression you have to open up netbeans and work for a little bit.
+You can switch between work and the tutorial by pressing the X in the top right corner of Hendrick's laptop.
+The closer Hendricks is, the more likely he is to notice you programming your calculator.
+Also, if you're blatently not doing your work, Mr. Hendricks may charge at you.
+To avoid getting detention, you need to put away your calculator and switch to your work before he reaches you.
+And on top of that you only have 80 minutes to finish your program, so good luck.
+Anyways, thats it for this video, hope you all enjoyed!
+Remember to leave a like, favorite, comment, and subscribe!
+Peace out!
